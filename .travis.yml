@@ -6,4 +6,4 @@ script:
   - source ~/catkin_ws/devel/setup.bash
   - bash -xve ./test/travis_package_make.bash
   - source ~/catkin_ws/devel/setup.bash
-  - rostest pimouse_ros ~/catkin_ws/src/pimouse_ros/test/test.launch
+  - rostest pimouse_ros ~/home/travis/catkin_ws/src/pimouse_ros/test/test.launch
