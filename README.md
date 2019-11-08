@@ -1,2 +1,4 @@
+[![Build Status](https://travis-ci.org/keisukeichida/pimouse_ros.svg?branch=master)](https://travis-ci.org/keisukeichida/pimouse_ros)
+
 # pimouse_ros
-ROS package for Raspberry Pi Mouse (for book sample, information for new version below)
+For ROS practice
