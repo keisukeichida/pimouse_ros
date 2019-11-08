@@ -19,4 +19,4 @@ if __name__== '__main__':
 if __name__ == '__main__':
    time.sleep(3)
    rospy.init_node('travis_test_buzzer')
-.rosrun('pimout_node_exist(self):e_ros','travis_test_buzzer',BuzzerTest)
+   rosrun('pimout_node_exist(self):e_ros','travis_test_buzzer',BuzzerTest)
